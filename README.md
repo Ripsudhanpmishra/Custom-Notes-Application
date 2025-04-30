@@ -8,7 +8,7 @@ This project was built as part of a frontend mini-project challenge.
 ## 🚀 Live Demo
 
 - **GitHub Repo:** [GitHub Link](https://github.com/Ripsudhanpmishra/Custom-Notes-Application)
-- **Live Site:** [Vercel/Netlify Link](<your-live-link-here>)
+- **Live Site:** [Vercel/Netlify Link](https://app.netlify.com/sites/vocal-klepon-338ca1/deploys)
 
 ---
 
