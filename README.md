@@ -16,7 +16,7 @@ This project was built as part of a frontend mini-project challenge.
 
 1. Clone the repository:
 ```bash
-    git clone <your-github-repo-link-here>
+    git clone https://github.com/Ripsudhanpmishra/Custom-Notes-Application.git
 ```
 
 2. Navigate to the project folder:
