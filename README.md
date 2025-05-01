@@ -46,7 +46,7 @@ This project was built as part of a frontend mini-project challenge.
 
 ## 🛠️ Tech Stack
 
-- **React.js** (bootstrapped with Vite)
+- **React.js** 
 - **Plain CSS** for styling
 - **localStorage** for persistence
 
